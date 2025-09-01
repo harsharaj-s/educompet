@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "345796442749",
+    "project_id": "edu-compat",
+    "storage_bucket": "edu-compat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345796442749:android:6c292aba9a02b834f74f14",
+        "android_client_info": {
+          "package_name": "com.educompet.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345796442749-n48gddr5jgj4odovt1p59lmdda214ovt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.educompet.app",
+            "certificate_hash": "5bc5a658253223d8a702c9ae3d7882c8f52fcdef"
+          }
+        },
+        {
+          "client_id": "345796442749-5sequku97q68e99lbqqchc8jkvo1thhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCATE7ZVCQgCIdj5EzjgZG-6YXj4ZUrORo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345796442749-5sequku97q68e99lbqqchc8jkvo1thhj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "345796442749-rrdg176633f4rl3ub7cqn9vhq50af9mv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.educompat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
