@@ -1,0 +1,47 @@
+{
+  "functions": {
+    "source": "functions",
+    "codebase": "default",
+    "ignore": [
+      "node_modules",
+      ".git",
+      "firebase-debug.log",
+      "firebase-debug.*.log",
+      "*.local"
+    ]
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "edu-compat",
+          "appId": "1:345796442749:android:d5115ca29dac1258f74f14",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "edu-compat",
+          "configurations": {
+            "android": "1:345796442749:android:d5115ca29dac1258f74f14",
+            "ios": "1:345796442749:ios:cac9af3daf0d7613f74f14",
+            "macos": "1:345796442749:ios:cac9af3daf0d7613f74f14",
+            "web": "1:345796442749:web:b1f59bccd0864eaef74f14",
+            "windows": "1:345796442749:web:3b4643d4459f5bbef74f14"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "source": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "frameworksBackend": {
+      "region": "asia-east1"
+    }
+  }
+}
